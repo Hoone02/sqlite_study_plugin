@@ -1,0 +1,6 @@
+name: SqlStydyPlugin
+version: '${project.version}'
+main: org.example.hoon.sqlstydyplugin.SqlStydyPlugin
+api-version: 1.19
+commands:
+  sql:
